@@ -18,3 +18,6 @@
 a = input("请输入第一段内容：")
 b = input("请输入第二段内容：")
 print("两段字符串的长度是：", len(a) + len(b))
+sdafdsafdsafasd
+
+发斯蒂芬
